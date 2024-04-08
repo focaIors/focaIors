@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/564x/dd/c2/1c/ddc21c4d9a62c843fafd655a74205bed.jpg" />
+</p>
 
-<!--
-**focaIors/focaIors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">XIII ⸝ Thirteen<p align="center">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">transneu⠀⠀⠀・⠀⠀⠀neutral ⠀⠀⠀・⠀⠀⠀ he ⸝ him<p align="center">
+</p>
+  
+<p align="center">taken ♡ illustrator<p align="center">
+</p>
